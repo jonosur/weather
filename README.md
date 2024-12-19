@@ -17,7 +17,8 @@ The atheme.conf should look like this.
 loadmodule "modules/weather/main";
 weather {
         /* (*)nick
-         * Sets the nick used for InfoServ and sending out informational messages.
+         * Sets the nick used for Weather and sending out informational messages.
+         * There is some code where nick is hardset to 'Weather' I wouldnt change unless you change that in main.c
          */
         nick = "Weather";
 
