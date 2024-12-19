@@ -1,3 +1,7 @@
+[![Language](https://img.shields.io/badge/language-C-green.svg?style=for-the-badge)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![MIT](https://shields.io/badge/license-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+[![Issues](https://img.shields.io/github/issues/jonosur/weather?style=for-the-badge)](https://github.com/jonosur/weather/issues)
+
 ### WEATHER ATHEME-SERVICES MODULE
 
 Make sure you have curl, jannson and math libs installed.
